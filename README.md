@@ -1,4 +1,4 @@
-![Banner](https://drive.google.com/file/d/1JuPGgQdUCWHYZ_1ohYdicT0vVaysJ2a0/view?usp=sharing) 
+![Banner](banner.jpg) 
 ### Hello everyone, I'm Tiago
 I'm graduating in Federal University of Ceara, Quixadá/CE campus.
 
@@ -8,4 +8,12 @@ I'm graduating in Federal University of Ceara, Quixadá/CE campus.
 
 - 🔭 I’m currently working on 5th semester courses
 - 🌱 I’m currently learning Lua, LOVE2D and Draw Fundamentals
+
+## Technologies
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=Java)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=Lua)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
