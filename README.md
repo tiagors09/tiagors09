@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiagors09" alt="tiagors09" /></a> </p>
 
-- 🌱 I’m currently learning **the basics... HTML5, CSS3, JS(mainly) for study NodeJS, React and React Native.**
+- 🌱 I’m currently learning **both the basics like HTML5, CSS3, JS (mostly) and studying React Native, I have plans to study Node and React as well.**
 
 - 📫 How to reach me **tiagorodriguessousa9@gmail.com**
 
