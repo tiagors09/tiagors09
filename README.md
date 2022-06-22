@@ -1,5 +1,5 @@
 <h1 align="center">sup fellas, I'm Tiago Rodrigues</h1>
-<h3 align="center">Trying to be a mobile developer. Currently studying at the Federal University of Ceará, Campus Quixadá, majoring in Computer Science.</h3>
+<h3 align="center">Trying to be a mobile developer. Currently studying at the Federal University of Ceara, Campus Quixada, majoring in Computer Science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagors09&label=Profile%20views&color=0e75b6&style=flat" alt="tiagors09" /> </p>
 
