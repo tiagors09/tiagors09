@@ -1,5 +1,5 @@
 <h1 align="center">sup fellas? I'm Tiago Rodrigues Sousa</h1>
-<h3 align="center">A front-end developer from Quixada, Ceara, Brazil.</h3>
+<h3 align="center" text-align="justify">A front-end developer from Quixada, Ceara, Brazil.</h3>
 <p align="center">Graduating in Computer Science at University Federal of Ceara, Quixada, Ceara, Brazil since first semester of 2019. Currently I'm studying Front-end technologies, HTML5, CSS3, Bulma, JavaScript(ES6+) and React.
 
 I'm studying other things beyond college content such as musical theory, drawning fundamentals and game development using Godot, in addition, I assisted no Ciclo de Orientação ACAD in university, I participate Literature Club and Quixada cathedral choir
