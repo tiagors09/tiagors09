@@ -9,6 +9,7 @@ I'm front-end developer and graduating student at Federal University of Ceara ca
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 <h2><img class="icon" src="https://em-content.zobj.net/source/microsoft-teams/337/high-voltage_26a1.png" alt="high voltage" width="32px" height="32px">GitHub Stats</h2>
