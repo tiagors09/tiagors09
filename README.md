@@ -1,6 +1,6 @@
 # <img src="https://em-content.zobj.net/source/microsoft-teams/337/grinning-face_1f600.png" alt="grinning face" width="32px" height="32px"> Hi! I'm Tiago
 
-I'm front-end developer and graduating student at Federal University of Ceara campus Quixada.
+I'm fullstack developer and graduating student at Federal University of Ceara campus Quixada.
 
 ## <img class="icon" src="https://em-content.zobj.net/source/microsoft-teams/337/rocket_1f680.png" alt="rocket" width="32px" height="32px"><img class="icon" src="https://em-content.zobj.net/source/microsoft-teams/337/laptop_1f4bb.png" width="32px" height="32px">Technologies and Tools
 
