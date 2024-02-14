@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiagors09" alt="tiagors09" /></a> </p>
 
-- 🌱 I’m currently learning **machine learning**
+- 🌱 I’m currently learning **Mobile development using Flutter**
 
 - 💬 Ask me about **front end, back end, mobile**
 
 - 📫 How to reach me **tiagorodriguessousa9@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fjjryhgvpa-MqErLmOwMbVZoCdkjhAu4/view?usp=sharing](https://drive.google.com/file/d/1fjjryhgvpa-MqErLmOwMbVZoCdkjhAu4/view?usp=sharing)
 
 - ⚡ Fun fact **I really like drawing and I want to publish a web comic one day**
 
