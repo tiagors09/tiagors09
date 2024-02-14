@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tiago Rodrigues Sousa</h1>
-<h3 align="center">Computer Scientist | Turning Ideas into Cohesive Computing Experiences.</h3>
+<h3 align="center">Flutter Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagors09&label=Profile%20views&color=0e75b6&style=flat" alt="tiagors09" /> </p>
 
