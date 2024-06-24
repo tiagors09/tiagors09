@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning Fluter<br>🎯 Goals: be a greate software enginner focus in mobile development<br>🎲 Fun fact: One day, going to university, I lost my cell phone on the bus, I spent the morning looking for my cell phone, I left the university to the bus station in my city on a bike, looking for my cell phone, I spoke to the bus station guard to see if the guard had found it. , I went back to university (without having found it), ten fucking kilometers, when I took the midday bus to go home, the driver said he found it</p>
+<p align="left">
+  ✨ Creating bugs since 2016<br>📚 I'm currently learning Fluter
+  <br>
+  🎯 Goals: be a greate software enginner focus in mobile development
+</p>
 
 ###
 
