@@ -1,63 +1,111 @@
-<h2 align="left">Hi 👋! My name is Tiago and I'm a mobile developer, from Brazil</h2>
+<h1 align="center">Hi 👋, I'm Tiago Rodrigues</h1>
 
-###
+<h3 align="center">📱 Mobile Developer · Flutter & Dart · Software Engineer · Brazil 🇧🇷</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiagors09&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagors09&locale=en&hide_title=false&layout=compact&card_width=325&langs_count=5&theme=dracula&hide_border=false&hide=jupyter%20notebook,CMake,Makefile" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/38366602?v=4"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="tiagorodriguessousa9@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<p align="center">
+  <a href="https://github.com/tiagors09">
+    <img src="https://komarev.com/ghpvc/?username=tiagors09&style=flat-square&color=blueviolet"/>
   </a>
-  <a href="https://www.linkedin.com/in/tiagors09/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/tiagors09/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-</div>
+  <a href="mailto:tiagorodriguessousa9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-###
+<p align="center">
+  <b>Building scalable, testable and high-quality mobile experiences with Flutter.</b>
+</p>
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/tiagors09/tiagors09/output/snake.svg" alt="Snake animation" />
+<h3>🚀 About</h3>
 
-###
+<p>
+I'm a <b>Mobile Developer</b> focused on <b>Flutter & Dart</b>, with experience in
+Clean Architecture, state management, automated testing, REST APIs, performance
+optimization and mobile app releases.
+</p>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/tiagors09/count.svg?"  />
-</div>
+<p>
+Currently working as a <b>Flutter Developer at Robovisor</b>, contributing to
+<b>TARS</b>, an AI-powered mobile product.
+</p>
 
-###
+---
+
+<h3>🛠️ Tech Stack</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=dart,flutter,android,git,github,firebase,sqlite,postgres,docker,linux,figma,vscode" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Clean%20Architecture-02569B?style=flat-square"/>
+<img src="https://img.shields.io/badge/BLoC%20%2F%20Cubit-02569B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Unit%20Testing-4CAF50?style=flat-square"/>
+<img src="https://img.shields.io/badge/Widget%20Testing-4CAF50?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST%20APIs-FF6F00?style=flat-square"/>
+</p>
+
+---
+
+<h3>💼 Experience</h3>
+
+<table>
+<tr><th>Company</th><th>Role</th><th>Period</th></tr>
+<tr><td><b>Robovisor LLC</b></td><td>Flutter Developer · Mid-level</td><td>2026 — Present</td></tr>
+<tr><td><b>FTeam</b></td><td>Flutter Developer · Mid-level</td><td>2025</td></tr>
+<tr><td><b>Avante Tech JR</b></td><td>Software Engineer</td><td>2024 — 2025</td></tr>
+<tr><td><b>IFPE</b></td><td>Flutter Developer · Junior</td><td>2024</td></tr>
+<tr><td><b>NPI</b></td><td>Full Stack Developer · Junior</td><td>2023</td></tr>
+</table>
+
+---
+
+<h3>🏆 Highlights</h3>
+
+<ul>
+  <li>📱 Developed and maintained production Flutter applications.</li>
+  <li>🧪 Improved application stability through unit & widget testing.</li>
+  <li>⚡ Refactored asynchronous processing and optimized performance.</li>
+  <li>🏗️ Reduced technical debt through modular and reusable architecture.</li>
+  <li>🚀 Experience with Google Play & App Store release pipelines.</li>
+  <li>👨‍💻 Technical leadership from requirements to production delivery.</li>
+</ul>
+
+---
+
+<h3>🎓 Education</h3>
+
+<p>
+<b>B.Sc. Computer Science</b> — Federal University of Ceará (UFC) · 2019–2026<br>
+<b>Technical Degree in Computer Networks</b> — EEEP Maria Auday Vasconcelos Nery · 2018
+</p>
+
+---
+
+<h3>📊 GitHub</h3>
+
+<p align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=tiagors09&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagors09&layout=compact&langs_count=6&theme=dracula&hide_border=true&hide=jupyter%20notebook,CMake,Makefile"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=tiagors09&theme=dracula&hide_border=true"/>
+</p>
+
+---
+
+<h3>📫 Let's connect</h3>
+
+<p>
+<a href="https://www.linkedin.com/in/tiagors09/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:tiagorodriguessousa9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tiagors09/tiagors09/output/snake.svg" alt="Contribution Snake"/>
+</p>
